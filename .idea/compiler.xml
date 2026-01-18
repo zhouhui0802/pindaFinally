@@ -2,11 +2,14 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="zhHello-spring-boot-starter" />
+        <module name="zh-pinda-lombok" />
+        <module name="swagger_demo" />
         <module name="myApp-userZhHelloSpringBootStarter" />
       </profile>
     </annotationProcessing>
@@ -14,6 +17,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="myApp-userZhHelloSpringBootStarter" options="-parameters" />
+      <module name="swagger_demo" options="-parameters" />
       <module name="zhHello-spring-boot-starter" options="-parameters" />
     </option>
   </component>

@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/zhHello-spring-boot-starter/pom.xml" />
         <option value="$PROJECT_DIR$/myApp-userZhHelloSpringBootStarter/pom.xml" />
+        <option value="$PROJECT_DIR$/zh-pinda-lombok/pom.xml" />
+        <option value="$PROJECT_DIR$/swagger_demo/pom.xml" />
       </list>
     </option>
   </component>
