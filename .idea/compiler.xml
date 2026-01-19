@@ -12,11 +12,13 @@
         <module name="swagger_demo" />
         <module name="knife4j_demo" />
         <module name="myApp-userZhHelloSpringBootStarter" />
+        <module name="dozer_demo" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="dozer_demo" options="-parameters" />
       <module name="knife4j_demo" options="-parameters" />
       <module name="myApp-userZhHelloSpringBootStarter" options="-parameters" />
       <module name="swagger_demo" options="-parameters" />
