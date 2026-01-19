@@ -1,0 +1,13 @@
+server:
+  port: 7788
+pinda:
+  swagger:
+    enable: true
+    title: Api测试Knife4J
+    docket:
+      user:
+        title: 用户模块
+        base-package: com.zh.controller.user
+      menu:
+        title: 菜单模块
+        base-package: com.zh.controller.menu
