@@ -9,7 +9,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="swagger_demo" />
         <module name="myApp-userZhHelloSpringBootStarter" />
+        <module name="logback_demo" />
         <module name="dozer_demo" />
+        <module name="spring_logback_demo" />
         <module name="zhHello-spring-boot-starter" />
         <module name="zh-pinda-lombok" />
         <module name="knife4j_demo" />
@@ -25,6 +27,7 @@
       <module name="hibernate-validator_demo" options="-parameters" />
       <module name="knife4j_demo" options="-parameters" />
       <module name="myApp-userZhHelloSpringBootStarter" options="-parameters" />
+      <module name="spring_logback_demo" options="-parameters" />
       <module name="swagger_demo" options="-parameters" />
       <module name="zhHello-spring-boot-starter" options="-parameters" />
     </option>
