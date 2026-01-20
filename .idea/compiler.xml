@@ -8,23 +8,25 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="swagger_demo" />
-        <module name="springevent_demo" />
         <module name="myApp-userZhHelloSpringBootStarter" />
         <module name="logback_demo" />
-        <module name="dozer_demo" />
+        <module name="argumentResolver_demo" />
         <module name="jwt_demo" />
         <module name="spring_logback_demo" />
         <module name="zhHello-spring-boot-starter" />
         <module name="zh-pinda-lombok" />
         <module name="knife4j_demo" />
-        <module name="hibernate-validator_demo" />
         <module name="antiSamy_demo" />
+        <module name="springevent_demo" />
+        <module name="dozer_demo" />
+        <module name="hibernate-validator_demo" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="antiSamy_demo" options="-parameters" />
+      <module name="argumentResolver_demo" options="-parameters" />
       <module name="dozer_demo" options="-parameters" />
       <module name="hibernate-validator_demo" options="-parameters" />
       <module name="knife4j_demo" options="-parameters" />
