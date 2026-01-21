@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/springevent_demo/pom.xml" />
         <option value="$PROJECT_DIR$/jwt_demo/pom.xml" />
         <option value="$PROJECT_DIR$/argumentResolver_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/exceptionHandler_demo/pom.xml" />
       </list>
     </option>
   </component>

@@ -18,6 +18,7 @@
         <module name="knife4j_demo" />
         <module name="antiSamy_demo" />
         <module name="springevent_demo" />
+        <module name="exceptionHandler_demo" />
         <module name="dozer_demo" />
         <module name="hibernate-validator_demo" />
       </profile>
@@ -28,6 +29,7 @@
       <module name="antiSamy_demo" options="-parameters" />
       <module name="argumentResolver_demo" options="-parameters" />
       <module name="dozer_demo" options="-parameters" />
+      <module name="exceptionHandler_demo" options="-parameters" />
       <module name="hibernate-validator_demo" options="-parameters" />
       <module name="knife4j_demo" options="-parameters" />
       <module name="myApp-userZhHelloSpringBootStarter" options="-parameters" />
